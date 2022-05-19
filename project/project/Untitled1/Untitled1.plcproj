@@ -23,6 +23,9 @@
     <Compile Include="POU.TcPOU">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="POUs\DUT.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="POUs\FB_Test.TcPOU">
       <SubType>Code</SubType>
     </Compile>
